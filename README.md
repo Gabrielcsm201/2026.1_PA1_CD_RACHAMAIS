@@ -4,5 +4,5 @@ Alunos:
 Gabriel César Silva;
 Gabriel Lima Louzada; 
 João Pedro Nobre;
-Italo Galdino Mota 
+Italo Galdino Mota;
 Paulo Edvandro
