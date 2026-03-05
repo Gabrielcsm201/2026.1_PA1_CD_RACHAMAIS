@@ -5,3 +5,4 @@ Gabriel César Silva;
 Gabriel Lima Louzada; 
 João Pedro Nobre;
 Italo Galdino Mota 
+Paulo Edvandro
